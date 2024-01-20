@@ -17,15 +17,6 @@
    "source": []
   },
   {
-   "cell_type": "markdown",
-   "id": "f056c8b8-e897-44dc-8f0f-e02a59d5509d",
-   "metadata": {},
-   "source": [
-    "# Practice Lab2 Creating Matplotlib Graph\n",
-    "### Fruit Supply By Kind And Colors  [Details Can Be Found Here.](https://matplotlib.org/stable/gallery/lines_bars_and_markers/bar_colors.html#sphx-glr-gallery-lines-bars-and-markers-bar-colors-py)"
-   ]
-  },
-  {
    "cell_type": "code",
    "execution_count": 1,
    "id": "8b65ebd2-b481-45e3-acd0-066ba7582dad",
@@ -1219,7 +1210,7 @@
     "|2|James|HR|28|\n",
     "|3|Matthew|Risk|22|\n",
     "|4|John|Finance|27|\n",
-    "|5|Kate|IT|35|es('style=\"font-size: 10px\"')"
+    "|5|Kate|IT|35|"
    ]
   },
   {
